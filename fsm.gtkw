@@ -1,0 +1,63 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sat Jun 15 13:36:47 2024
+[*]
+[dumpfile] "ll.vcd"
+[dumpfile_mtime] "Sat Jun 15 13:30:39 2024"
+[dumpfile_size] 6476486
+[savefile] "fsm.gtkw"
+[timestart] 0
+[size] 3248 1225
+[pos] 197 99
+*-23.316147 4555977500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lablet_testb.
+[treeopen] lablet_testb.lablet.
+[treeopen] lablet_testb.lablet.state_mach.
+[sst_width] 360
+[signals_width] 210
+[sst_expanded] 1
+[sst_vpaned_height] 718
+@c00022
+lablet_testb.lablet.state_mach.ACTEN[4:0]
+@28
+(0)lablet_testb.lablet.state_mach.ACTEN[4:0]
+(1)lablet_testb.lablet.state_mach.ACTEN[4:0]
+(2)lablet_testb.lablet.state_mach.ACTEN[4:0]
+(3)lablet_testb.lablet.state_mach.ACTEN[4:0]
+(4)lablet_testb.lablet.state_mach.ACTEN[4:0]
+@1401200
+-group_end
+@28
+lablet_testb.lablet.ACT0
+lablet_testb.lablet.ACT1
+lablet_testb.lablet.ACT2
+lablet_testb.lablet.ACT3
+lablet_testb.lablet.ACT4
+lablet_testb.lablet.ACT5
+@200
+-
+@820
+lablet_testb.tb_state[31:0]
+@800024
+lablet_testb.lablet.state_mach.phase[1:0]
+@1001200
+-group_end
+@24
+lablet_testb.lablet.state_mach.repeatcnt[6:0]
+@200
+-
+@8024
+lablet_testb.lablet.state_mach.patterncnt[2:0]
+@28
+lablet_testb.lablet.state_mach.p_ec
+lablet_testb.lablet.state_mach.p_ne
+@8028
+lablet_testb.lablet.state_mach.p_ca[2:0]
+@8024
+lablet_testb.lablet.state_mach.p_sc[1:0]
+lablet_testb.lablet.state_mach.p_pa[2:0]
+lablet_testb.lablet.state_mach.p_ep[2:0]
+@28
+lablet_testb.lablet.state_mach.p_dat
+[pattern_trace] 1
+[pattern_trace] 0
